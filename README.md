@@ -1,5 +1,7 @@
 # Simple CNNs implementation
+
 **Authors**: Ludovico Grabau & Damian Boquete Costa
+
 **Last modification**: 14.12.2022
 
 ### Description:
